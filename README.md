@@ -1,5 +1,13 @@
 # Bank Customer Churn Prediction using ANN
 
+
+## Problem statement
+Banks face revenue loss and higher acquisition costs when customers leave, making early churn identification a key business priority.
+This project aims to predict customer churn using demographic, financial and account-related attributes through an Artificial Neural Network.
+The resulting model supports proactive retention decisions by identifying customers with elevated churn risk before they exit.
+
+---
+
 ## Project overview
 
 This project develops an end-to-end deep learning solution to predict whether a bank customer is likely to churn.
@@ -358,6 +366,8 @@ This confirms that saving and reloading the inference artefacts did not change t
 
 ## Streamlit application
 
+**Streamlit App Link**: [Click here ](https://ai-bankchurn-prediction-usingann.streamlit.app/)
+
 The Streamlit application contains two tabs:
 
 ### 1. Churn prediction
@@ -409,7 +419,6 @@ The dashboard displays:
 
 The dashboard interpretations are descriptive historical patterns and are not presented as causal conclusions.
 
-**Streamlit App Link**: Click here 
 
 ---
 
