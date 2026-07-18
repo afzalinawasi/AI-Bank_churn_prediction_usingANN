@@ -1,0 +1,2 @@
+Model,Threshold,Test accuracy,Test balanced accuracy,Test precision,Test recall,Test F1-score,Test ROC-AUC,Test PR-AUC,Test loss
+Improved ANN with tuned threshold,0.3,0.8475,0.7689,0.6226,0.6364,0.6294,0.8644,0.7125,0.3316
